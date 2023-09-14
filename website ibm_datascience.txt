@@ -1,0 +1,8 @@
+https://www.superdatascience.com/pages/training 
+
+http://vassarstats.net/newcs.html?
+
+https://www.evanmiller.org/ab-testing/chi-squared.html
+
+https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P12-Step-by-Step-Blueprints-For-Building-Models.pdf
+
